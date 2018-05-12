@@ -1,0 +1,31 @@
+_repo: Where-the-Pavement-Ends_32946
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, John
+    birthdate: 1885
+    deathdate: 1956
+    gutenberg_agent_id: '36120'
+    url: http://www.gutenberg.org/2009/agents/36120
+description: ''
+gutenberg_issued: '2010-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32946'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: 'The fourth man -- The lost god -- The passion vine -- The price
+  of the head -- The slanted beam -- The red mark -- East of eastward -- Jetsam --
+  The adversary -- Meaning: chase yourself -- The wicks of Macassar -- Doubloon gold
+  -- The practicing of Christopher -- Amok.'
+title: Where the Pavement Ends
+url: http://www.gutenberg.org/ebooks/32946
