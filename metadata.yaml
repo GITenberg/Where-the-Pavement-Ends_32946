@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36120'
     url: http://www.gutenberg.org/2009/agents/36120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32946#Where-the-Pavement-Ends
 gutenberg_issued: '2010-06-22'
 gutenberg_type: Text
 identifiers:
